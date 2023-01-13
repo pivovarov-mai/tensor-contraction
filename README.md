@@ -6,5 +6,5 @@
 3. Сделать PR в данный репозиторий
 4. Ждать комментариев от преподавателя\
 
-[Sorce Code Folder]()\
+[Sorce Code Folder](https://github.com/B3aRrrr/tensor-contraction/blob/master/ChernyshevDmitry/source%20code/TensorsNCONNUMPY.py)\
 [NoteBook]()
