@@ -7,4 +7,4 @@
 4. Ждать комментариев от преподавателя\
 
 [Sorce Code Folder](https://github.com/B3aRrrr/tensor-contraction/blob/master/ChernyshevDmitry/source%20code/TensorsNCONNUMPY.py)\
-[NoteBook]()
+[NoteBook](https://github.com/B3aRrrr/tensor-contraction/blob/master/ChernyshevDmitry/TensorsNCONNUMPy.ipynb)
